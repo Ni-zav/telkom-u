@@ -6,6 +6,9 @@ This repository serves as my personal storage and documentation of my learning j
 - Store academic projects and assignments
 - Track my educational progress at Telkom University
 
+## Notes
+- This repository is not for note taking or study materials. It is a repository for works and assignments that I have completed at Telkom University.
+
 ## Structure
 The repository contains various materials from my coursework and projects organized by semester/subject.
 

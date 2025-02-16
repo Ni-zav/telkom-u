@@ -1,4 +1,4 @@
-## Gambaran Materi Per Minggu
+## Weekly Course Overview
 1. Partial Integration, Integration of Trigonometric Functions.
 2. Integration using Trigonometric Substitution and Root Forms.
 3. Integration of Rational Functions.
