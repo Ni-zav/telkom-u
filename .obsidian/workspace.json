@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a74f104d95d59bcb",
+        "id": "ebbc450da467abdc",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8bc08fcd6390c4",
+            "id": "01eb7462cd07791f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20250218204119.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250218204119"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -171,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3df7114e33d5cae0",
+  "active": "01eb7462cd07791f",
   "lastOpenFiles": [
-    "attachments/Pasted image 20250218202826.png",
     "attachments/Pasted image 20250218204119.png",
+    "attachments/Pasted image 20250218202826.png",
     "README.md",
     "templates",
     "attachments",

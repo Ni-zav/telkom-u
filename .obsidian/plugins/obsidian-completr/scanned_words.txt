@@ -32,6 +32,7 @@ cF
 cZk
 cu
 cR
+conflicts
 math
 my
 maintain
@@ -48,6 +49,7 @@ mTy
 mL
 mu
 mN
+mobile
 Telkom
 This
 Track
@@ -87,6 +89,7 @@ rn
 rU
 rg
 rq
+repo
 serves
 storage
 study
@@ -107,6 +110,8 @@ sd
 se
 sP
 sW
+some
+since
 personal
 progress
 projects
@@ -130,6 +135,7 @@ dyt
 dc
 doRx
 dj
+decide
 of
 or
 organized
@@ -161,6 +167,7 @@ jX
 ju
 jO
 jkk
+json
 Here
 Hr
 Hu
@@ -213,6 +220,8 @@ ii
 iq
 iN
 iC
+ignore
+in
 not
 note
 notetaking
@@ -233,6 +242,7 @@ fr
 fP
 fI
 fg
+file
 taking
 that
 to
@@ -263,6 +273,7 @@ wj
 wO
 wU
 wo
+will
 have
 has
 hi
@@ -299,6 +310,7 @@ AjvW
 use
 up
 uceFH
+update
 you
 yet
 yx
@@ -314,6 +326,7 @@ Oi
 Oe
 gAMA
 gJ
+gitignore
 Ccs
 CU
 Cc
