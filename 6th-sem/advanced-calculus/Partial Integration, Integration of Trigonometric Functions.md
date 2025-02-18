@@ -39,10 +39,8 @@ example:
 # trigonometric integration
 
 Shape: $\int \cos ^n xdx$ and $\int \sin ^n xdx$
-
 For n odd: $\sin ^n x = \sin x \sin ^{n-1} x$ and $\cos ^n x = \cos x \cos^{n-1}x$
 	use identity $\sin ^2 x + \cos ^2 x = 1$
-
 for n even: $\cos 2x = 2 \cos ^2x-1=1-2 \sin ^2x$ 
 	use identity $sin ^nx= \sin ^{n-2}x$ and $\cos ^nx=\cos^2 x \cos ^{n-2}x$
 
@@ -57,6 +55,17 @@ answer:
 	$= \frac{1}{4}\int(1-2 \cos 2x+\cos ^22x)dx$
 	$=\frac{1}{4}(\int dx -2 \int \cos 2xdx+\int \frac{1+cos 4x}{2}dx)$
 	$=\frac{1}{4}(x - 2 \frac{1}{2} \sin 2xdx+\int \frac{1+cos 4x}{2}dx)$
+	$=\frac{1}{4}(x - 2 \frac{1}{2} \sin 2xdx+\frac{1}{2}(\frac{1}{4}\cos 4x + x))$
 	$= \frac{1}{4}x-\frac{1}{4}\sin 2x + \frac{1}{8}x+ \frac{1}{32}\sin 4x+C$	
 	$=\frac{3}{8}x-\frac{1}{4}\sin 2x + \frac{1}{32}\sin 4x+C$	
 
+Shape: $\int \sin ^m x \cos ^n xdx$
+for n OR m even:
+	take sin x OR cos x 
+	and use identity: $\sin ^2x+\cos ^2 = 1$
+
+for n AND m even:
+	write both $\sin ^mx$ and $\cos ^nx$ 
+	and use identity: $\cos 2x = 2\cos ^2x-1=1-2 \sin ^2x$
+
+example
