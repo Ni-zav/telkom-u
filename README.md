@@ -17,3 +17,4 @@ The repository contains various materials from my coursework and projects organi
 
 # Update
  - start to use obsidian.md to streamlined notetaking and markdown style format editing.
+ - use latex complter and Latex Suite (not yet) to streamline the process of notetaking.

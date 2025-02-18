@@ -1,7 +1,14 @@
 #adv-calculus #math
 
+
+# Course Overview
+
+
+
+
 ## Weekly Course Overview
-1. Partial Integration, Integration of Trigonometric Functions
+
+1. [[Partial Integration, Integration of Trigonometric Functions]]
 2. Integration using Trigonometric Substitution and Root Forms.
 3. Integration of Rational Functions.
 4. Number Sequences and Convergence, Infinite Series, Divergence Tests.
