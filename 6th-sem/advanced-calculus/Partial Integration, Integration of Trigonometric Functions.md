@@ -3,6 +3,7 @@
 # partial integration
 partial integration is boils down to: an integral function that is a multiplication of multiple integral functions. 
 it has distinct characteristics: one function is not a derivative of another.
+**Shape**:
 $$ \int u dv = uv - \int v du $$
 the one for u is the one function that is simpler.
 
@@ -38,7 +39,7 @@ example:
 
 # trigonometric integration
 
-Shape: $\int \cos ^n xdx$ and $\int \sin ^n xdx$
+**Shape**: $\int \cos ^n xdx$ and $\int \sin ^n xdx$
 For n odd: $\sin ^n x = \sin x \sin ^{n-1} x$ and $\cos ^n x = \cos x \cos^{n-1}x$
 	use identity $\sin ^2 x + \cos ^2 x = 1$
 for n even: $\cos 2x = 2 \cos ^2x-1=1-2 \sin ^2x$ 
@@ -59,13 +60,31 @@ answer:
 	$= \frac{1}{4}x-\frac{1}{4}\sin 2x + \frac{1}{8}x+ \frac{1}{32}\sin 4x+C$	
 	$=\frac{3}{8}x-\frac{1}{4}\sin 2x + \frac{1}{32}\sin 4x+C$	
 
-Shape: $\int \sin ^m x \cos ^n xdx$
+**Shape**: $\int \sin ^m x \cos ^n xdx$
 for n OR m even:
-	take sin x OR cos x 
+	take single sin x OR cos x out
 	and use identity: $\sin ^2x+\cos ^2 = 1$
 
 for n AND m even:
-	write both $\sin ^mx$ and $\cos ^nx$ 
+	write  $\sin ^mx$ and $\cos ^nx$ 
 	and use identity: $\cos 2x = 2\cos ^2x-1=1-2 \sin ^2x$
 
-example
+example:
+1. $\int \sin ^3x \cos ^2 xdx$
+	$=\int sin ^2 x \cos ^2x \sin xdx$
+	$= - \int(1-\cos ^2x)\cos ^2xd (\cos x)$
+	$=-(\frac{1}{3}\cos ^3x - \frac{1}{5} \cos ^5x)+C$
+2. $\int \sin ^3x \cos ^2 xdx$
+
+**Shape**: $\int \tan ^m x \sec ^n x dx$ and $\int \cot ^m x \csc ^n xdx$
+use identity: $\tan ^2x= \sec ^2 x-1$ and $\cot ^2 x = \csc ^2 x-1$
+and tan/cot orders: $d(\tan x) = \sec ^2xdx$ and $d(cot x) = - \csc ^2 xdx$
+
+example: 
+1. $\int \tan ^4xdx$
+
+# Notes
+
+
+![[Pasted image 20250218202826.png]] need explanation on line 2.
+that is related to the **double-angle formula**. 
