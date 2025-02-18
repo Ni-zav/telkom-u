@@ -16,5 +16,6 @@ The repository contains various materials from my coursework and projects organi
 *Personal learning repository - Academic content from Telkom University*
 
 # Update
- - start to use obsidian.md to streamlined notetaking and markdown style format editing.
- - use latex complter and Latex Suite (not yet) to streamline the process of notetaking.
+ - [x] start to use obsidian.md to streamlined notetaking and markdown style format editing.
+ - [x] use latex complter and Latex Suite (not yet) to streamline the process of notetaking.
+- [ ] update .gitignore to ignore some of the json file in .obsidian

@@ -20,6 +20,7 @@ can
 continue
 cos
 cot
+complter
 math
 my
 maintain
@@ -37,6 +38,7 @@ The
 University
 Update
 Learning
+Latex
 Repository
 repository
 right
@@ -53,10 +55,12 @@ simpler
 shows
 single
 sin
+streamline
 personal
 progress
 projects
 partial
+process
 documentation
 down
 distinct
@@ -76,6 +80,7 @@ on
 learning
 left
 line
+latex
 journey
 Here
 evidence
@@ -91,6 +96,7 @@ Document
 Store
 Structure
 Shape
+Suite
 Notes
 is
 integration
@@ -136,5 +142,6 @@ AND
 use
 up
 you
+yet
 For
 OR
