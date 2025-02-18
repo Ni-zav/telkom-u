@@ -14,3 +14,6 @@ The repository contains various materials from my coursework and projects organi
 
 ---
 *Personal learning repository - Academic content from Telkom University*
+
+# Update
+ - start to use obsidian.md to streamlined notetaking and markdown style format editing.
