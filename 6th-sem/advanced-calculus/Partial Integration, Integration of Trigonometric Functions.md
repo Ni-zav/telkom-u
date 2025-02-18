@@ -44,5 +44,19 @@ For n odd: $\sin ^n x = \sin x \sin ^{n-1} x$ and $\cos ^n x = \cos x \cos^{n-1}
 	use identity $\sin ^2 x + \cos ^2 x = 1$
 
 for n even: $\cos 2x = 2 \cos ^2x-1=1-2 \sin ^2x$ 
-	use identity $sin ^nx= \sin ^{n-2}x$ and $\cos
+	use identity $sin ^nx= \sin ^{n-2}x$ and $\cos ^nx=\cos^2 x \cos ^{n-2}x$
+
+example:
+1. calculate $\int \sin ^3 xdx$
+2. calculate $\int \sin ^4 xdx$
+
+answer:
+1. $\int \sin ^3 xdx = \int \sin ^2x \sin xdx = - \int (1- \cos ^2x)d(\cos x)=\frac{1}{3}\cos ^3x \cos x + C$
+2. $\int \sin ^4 xdx$
+	$= \int \sin ^2x \sin ^2 xdx = \int (\frac{1-\cos 2x}{2})(\frac{1-\cos 2x}{2})dx$  because *($\cos 2x=1-\sin ^2x$).*
+	$= \frac{1}{4}\int(1-2 \cos 2x+\cos ^22x)dx$
+	$=\frac{1}{4}(\int dx -2 \int \cos 2xdx+\int \frac{1+cos 4x}{2}dx)$
+	$=\frac{1}{4}(x - 2 \frac{1}{2} \sin 2xdx+\int \frac{1+cos 4x}{2}dx)$
+	$= \frac{1}{4}x-\frac{1}{4}\sin 2x + \frac{1}{8}x+ \frac{1}{32}\sin 4x+C$	
+	$=\frac{3}{8}x-\frac{1}{4}\sin 2x + \frac{1}{32}\sin 4x+C$	
 
